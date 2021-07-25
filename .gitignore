@@ -1,1 +1,4 @@
 wireguard-go
+
+.deps/
+x64/
